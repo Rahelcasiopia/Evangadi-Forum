@@ -4,6 +4,7 @@
   "description": "A Q&A platform for Evangadi Family members where any member can ask and answer questions.",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
